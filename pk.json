@@ -7,15 +7,23 @@
       "alg": "ES384",
       "crv": "P-384",
       "x": "6z_3W3Br6HeTe0q1RMipzYDRm2_SMTeGUYphoEv5Hz6bC2Qppghet1LWVUvBxsKV",
-      "y": "GRJPTBfuBps-RTDmzMkvKqqBeU5mJE3Im5G8iaiNpvregUYTcOCW93jJ9Y_OgIaN"
+      "y": "GRJPTBfuBps-RTDmzMkvKqqBeU5mJE3Im5G8iaiNpvregUYTcOCW93jJ9Y_OgIaN",
+      "key_ops": [
+        "verify"
+      ],
+      "ext": true
     },
-        {
+    {
       "kty": "RSA",
       "kid": "3d8f3727dcf08af5f24e87ec52e6f3716d23b961f6a5a8aede46cf377b58ce75",
       "use": "sig",
       "alg": "RS384",
       "n": "r4qLYlm6xp8145ALtonSuz15Z4dhH9CtaQYJYdatiqgCrtS07ZjqziPY71cTZWbvqRTDF7dURgq5kTVsjzgPpEn30Dtz4-Py1AplH0xxXTcp3y54ntxLdFT8NnurRl77cH3OcQ55IuGWeoyPZUV7SPVlCjQFWldExhTA5UNsOAQdadmXgzbvTc-F1idZN4W-4rW_efUpQ0HfLtVMGT-3m88u_eCFOtnQyVzLMn7H_8lc8MGfyH0r6aUNitM84G9retnHV8e6bHCwncqAO9EscAzUTZumtwLWTSwF4kZ7oN5xnEALY-vcxq_bwztXYiOc78iY8vVf6JGG5NwL7-MqBw",
-      "e": "AQAB"
+      "e": "AQAB",
+      "key_ops": [
+        "verify"
+      ],
+      "ext": true
     }
   ]
 }
